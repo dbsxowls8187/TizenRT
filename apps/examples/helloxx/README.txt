@@ -15,7 +15,7 @@ examples/helloxx
     CONFIG_HAVE_CXXINITIALIZE -- Enable support for static constructors
       (may not be available on all platforms).
 
-  TinyAra configuration settings specific to this examp;le:
+  TinyAra configuration settings specific to this example:
 
     CONFIG_EXAMPLES_HELLOXX_NOSTACKCONST - Set if the system does not
       support construction of objects on the stack.
